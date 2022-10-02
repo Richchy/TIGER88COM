@@ -1,0 +1,18 @@
+{
+  "name": "TIGER88",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "TIGER88 สุดยอดเว็บแทงมวย ราคายุติธรรม LINE: @TIG88",
+  "keywords": [
+    "TIGER88",
+    "TIGER88.COM",
+    "TIG88",
+    "เว็บมวย TIGER88",
+    "TIG88.NET"
+  ],
+  "repository": "https://github.com/Richchy/TIGER88COM.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
